@@ -1,9 +1,9 @@
-#Mangy Beast
+##Mangy Beast
 ===========
 
-##CloudPassage Halo policy for detecting vulnerability to CVE-2014-3566 (AKA POODLE)
+###CloudPassage Halo policy for detecting vulnerability to CVE-2014-3566 (AKA POODLE)
 
-###We're not going to rehash the minute details of CVE-2014-3566, otherwise known as POODLE.  If you've found your way here, you're likely looking for a method to reliably detect and remediate.
+**We're not going to rehash the minute details of CVE-2014-3566, otherwise known as POODLE.  If you've found your way here, you're likely looking for a method to reliably detect and remediate.**
 
 **Background:**  POODLE affects the Secure Sockets Layer (SSL) protocol version 3.  The danger is that an attacker who can manipulate network traffic and intercept packets from an SSLv3-encrypted datastream can potentially determine the repeated contents of the datastream (like a session key in a cookie).
 
