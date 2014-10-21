@@ -18,5 +18,7 @@
 **Supported platforms:** RHEL-ish operating systems running Apache (tested on CentOS and Oracle Linux versions 5.10 and 6.5), Windows Server 2008, and Windows Server 2012
 
 **Files:**
-cve-2014-3566-poodle-rpm-based-distributions.policy.json
-cve-2014-3566-poodle-windows-server-2008-2012.policy.json
+
+  **cve-2014-3566-poodle-rpm-based-distributions.policy.json**
+
+  **cve-2014-3566-poodle-windows-server-2008-2012.policy.json**
