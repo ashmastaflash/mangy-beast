@@ -22,3 +22,7 @@
   **cve-2014-3566-poodle-rpm-based-distributions.policy.json**
 
   **cve-2014-3566-poodle-windows-server-2008-2012.policy.json**
+
+<!---
+#CPTAGS:community-unsupported policy
+-->
