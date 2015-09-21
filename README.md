@@ -25,4 +25,5 @@
 
 <!---
 #CPTAGS:community-unsupported policy
+#TBICON:images/json_icon.png
 -->
